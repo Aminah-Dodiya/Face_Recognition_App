@@ -112,12 +112,12 @@ The system demonstrates robust face recognition performance on challenging, real
 
 | Test Image                                  | Predicted Identity |
 |---------------------------------------------|-------------------|
-| ![Angelina Jolie](static/result0.png)       | Angelina Jolie    |
-| ![Demi Moore](static/result5.png)           | Demi Moore        |
-| ![Mikey Madison](static/result3.png)        | Mikey Madison     |
-| ![Tilda Swinton](static/result4.png)        | Tilda Swinton     |
-| ![Zendaya](static/result1.png)              | Zendaya           |
-| ![Zoe Saldana](static/result2.png)          | Zoe Saldana       |
+| ![Angelina Jolie](static/result0.jpg)       | Angelina Jolie    |
+| ![Demi Moore](static/result5.jpg)           | Demi Moore        |
+| ![Mikey Madison](static/result3.jpg)        | Mikey Madison     |
+| ![Tilda Swinton](static/result4.jpg)        | Tilda Swinton     |
+| ![Zendaya](static/result1.jpg)              | Zendaya           |
+| ![Zoe Saldana](static/result2.jpg)          | Zoe Saldana       |
 
 ---
 
