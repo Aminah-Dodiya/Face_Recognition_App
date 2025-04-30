@@ -41,13 +41,19 @@ Face_Recognition_App
 │   └── data-exploration.ipynb
 │   └── generate_face_embeddings.ipynb
 ├── static/
+│   └── result0.jpg
+│   └── result1.jpg
+│   └── result2.jpg
+│   └── result3.jpg
+│   └── result4.jpg
+│   └── result5.jpg
 ├── templates/
 │   └── index.html
-├── app.py
-├── face_recognition.py
 ├── LICENSE
 ├── README.md
-├── requirements.txt
+├── app.py
+├── face_recognition.py
+└── requirements.txt
 ```
 ---
 
