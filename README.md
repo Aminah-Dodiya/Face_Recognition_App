@@ -32,7 +32,7 @@ This video features six internationally recognized actresses in a professionally
 ## Project Structure
 
 ```
-Face_Recognition_App
+Face_Recognition_App/
 ├── embeddings/
 │   └── embeddings.pt
 ├── image
